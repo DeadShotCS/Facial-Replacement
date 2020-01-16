@@ -18,8 +18,8 @@ Homography based facial replacement using segmentation.
 
 
 
-<img src="images/output2.JPG" width="400" >
+<img src="images/output2.jpg" width="400" >
 
 
 
-<img src="images/output3.JPG" width="400" >
+<img src="images/output3.jpg" width="400" >
