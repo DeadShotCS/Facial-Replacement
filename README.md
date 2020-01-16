@@ -10,6 +10,9 @@ This is a project for CS 8650, and was turned into a small informal paper.
 
 
 # Dense Landmark Collection [2]
+
+https://github.com/YadiraF/PRNet
+
 <img src="images/face_dense.JPG" width="400" >
 
 
@@ -30,7 +33,7 @@ This is a project for CS 8650, and was turned into a small informal paper.
 
 [1] G. Bradski. The OpenCV Library. Dr. Dobb’s Journal of Software Tools, 2000. 
 
-[2] Yao Feng, Fan Wu, Xiaohu Shao, Yanfeng Wang, and Xi Zhou. Joint 3d face reconstruction and dense alignment with position map regression network. In ECCV, 2018. 
+[2] Yao Feng, Fan Wu, Xiaohu Shao, Yanfeng Wang, and Xi Zhou. Joint 3d face reconstruction and dense alignment with position map regression network. In ECCV, 2018. (https://github.com/YadiraF/PRNet)
 
 [3] Adam Geitgey. Facial recognition. https://github.com/ ageitgey/face_recognition/blob/master/LICENSE, 2017. MIT License. 
 
