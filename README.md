@@ -6,7 +6,7 @@ The basis of this library is made off of reference [8] for dense facial landmark
 This is a project for CS 8650, and was turned into a small informal paper.
 
 # Full Process
-<img src="images/transformation_process.JPG" width="400" >
+<img src="images/transformation_process.JPG" width="600" >
 
 
 # Dense Landmark Collection [8]
