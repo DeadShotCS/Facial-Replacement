@@ -35,10 +35,10 @@ https://github.com/YadiraF/PRNet
 
 [2] Yao Feng, Fan Wu, Xiaohu Shao, Yanfeng Wang, and Xi Zhou. Joint 3d face reconstruction and dense alignment with position map regression network. In ECCV, 2018. (https://github.com/YadiraF/PRNet)
 
-[3] Adam Geitgey. Facial recognition. https://github.com/ ageitgey/face_recognition/blob/master/LICENSE, 2017. MIT License. 
+[3] Adam Geitgey. Facial recognition. https://github.com/ageitgey/face_recognition/blob/master/LICENSE, 2017. MIT License. 
 
 [4] Eric Jones, Travis Oliphant, Pearu Peterson, et al. SciPy: Open source scientiﬁc tools for Python. http://www.scipy.org/, 2001.
 
-[5] Travis Oliphant. NumPy: A guide to NumPy. http://www. numpy.org/, 2006. USA: Trelgol Publishing. 
+[5] Travis Oliphant. NumPy: A guide to NumPy. http://www.numpy.org/, 2006. USA: Trelgol Publishing. 
 
-[6] wuhuikai, XiangFugui, and niczem. Faceswap. https://github. com/wuhuikai/FaceSwap, 2018. 
+[6] wuhuikai, XiangFugui, and niczem. Faceswap. https://github.com/wuhuikai/FaceSwap, 2018. 
