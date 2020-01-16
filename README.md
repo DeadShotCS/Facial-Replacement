@@ -22,11 +22,11 @@ This is a project for CS 8650, and was turned into a small informal paper.
 
 
 
-<img src="images/output2.jpg" width="150" >
+<img src="images/output2.jpg" width="200" >
 
 
 
-<img src="images/output3.jpg" width="150" >
+<img src="images/output3.jpg" width="200" >
 
 
 # Paper References
