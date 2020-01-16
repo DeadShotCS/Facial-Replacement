@@ -26,7 +26,7 @@ This is a project for CS 8650, and was turned into a small informal paper.
 
 
 
-# \References
+# References
 
 [1] G. Bradski. The OpenCV Library. Dr. Dobb’s Journal of Software Tools, 2000. 
 
