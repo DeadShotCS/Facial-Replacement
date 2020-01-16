@@ -14,19 +14,19 @@ This is a project for CS 8650, and was turned into a small informal paper.
 
 
 # Facial Segmentation Using Landmarks
-<img src="images/all_face_segments.JPG" width="200" >
+<img src="images/all_face_segments.JPG" width="300" >
 
 
 # Projection of Face and Facial Replacement
-<img src="images/faces_changed.JPG" width="400" >
+<img src="images/faces_changed.JPG" width="300" >
 
 
 
-<img src="images/output2.jpg" width="100" >
+<img src="images/output2.jpg" width="150" >
 
 
 
-<img src="images/output3.jpg" width="100" >
+<img src="images/output3.jpg" width="150" >
 
 
 # Paper References
