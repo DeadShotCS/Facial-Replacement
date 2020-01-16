@@ -4,4 +4,4 @@ Homography based facial replacement using segmentation.
 
 
 
-![](images/face_dense.JPG)
+<img src="images/face_dense.JPG" width="100" >
