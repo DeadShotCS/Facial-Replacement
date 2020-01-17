@@ -1,7 +1,7 @@
 # Facial-Replacement
 Homography based facial replacement using segmentation. This library focuses on utilizing segmentation to create a more pose invariant facial replacement method when using homography.
 
-The basis of this library is made off of reference [2] for dense facial landmark collection.
+**The basis of this library is made off of reference [2] for dense facial landmark collection. Their library will be needed to run this code.**
 
 This is a project for CS 8650, and was turned into a small informal paper.
 
@@ -44,6 +44,9 @@ Facial segmentation is just done by creating tons of arrays that hold individual
 <img src="images/output2.jpg" width="200" > <img src="images/output3.jpg" width="200" >
 
 
+Fully projected face will then be placed onto the destination image. 
+
+Facial blending is done by reference [6]
 
 # References
 
